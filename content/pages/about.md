@@ -14,4 +14,3 @@ Hola, aquí vas a leer un poco sobre mi 🤩
 > Soy Ingeniero Industrial, con certificacion en coaching humanista, y Project Management en metodología PMBOOK.
 
 Casado actualmente, viviendo en Monterrey, NL. la ciudad de entre Montañas, Cabrito y Carne asada!
-
