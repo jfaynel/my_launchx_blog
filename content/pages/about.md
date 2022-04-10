@@ -9,13 +9,9 @@ menu:
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+> Soy Mexicano, nacido en Puebla Pue.
+> Me encanta aprender nuevas habilidades, disfruto mucho reparar cosas, armar legos y resolver problemas para arreglar archivos.
+> Soy Ingeniero Industrial, con certificacion en coaching humanista, y Project Management en metodología PMBOOK.
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+Casado actualmente, viviendo en Monterrey, NL. la ciudad de entre Montañas, Cabrito y Carne asada!
 
