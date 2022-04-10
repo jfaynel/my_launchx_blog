@@ -11,6 +11,6 @@ Gracias por leerme en mi Blog.
 
 9 de Abril 2022, Poniendome al corriente
 El dia de hoy me puse al corriente con el live 2 que no pude ver. hoy aprendi a instalar Chocolatey, Go Hugo, para ir haciendo recopilaciones de websites sin tanto formato. Mi apredizaje no ha sido sencillo, por momentos no sabía ni siquiera en donde correr el código de los ejercicios, les recomiendo a todos los que estén batallando que tengan paciencia y piensen las preguntas que necesitamos que nos responda google, seguro alguién tiene o tuvo el mismo issue que nosotros.
-  Saludos Explorers!
+ Saludos Explorers!
 
 🚀
