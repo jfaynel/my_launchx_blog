@@ -1,7 +1,8 @@
 ---
-title: 'Blog'
-date: 2019-02-24
+title: 'Blog de jfaynel'
+date: 2022-04-09
 menu:
   main:
     name: "Posts"
 ---
+Probando si funciona Commit
